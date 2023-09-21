@@ -1,8 +1,8 @@
 # Descrição
 
-Neste exercício, você irá criar uma página web que exibe uma galeria de imagens que deverá ser estilizado.
+Neste exercício, você criará o layout de uma notícia fictícia em um site de notícias. Para isso você usará a propriedade `float` para posicionar as imagens dentro do corpo da notícia. 
 
-O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
+O objetivo é entender como usar o float para controlar o posicionamento de elementos dentro de um conteúdo textual.
 
 **Todas as alterações devem ser feitas nos arquivos já existentes**
 
@@ -12,6 +12,23 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 
 ## Instruções:
 
+1. Altera o `<body>` do arquivo **src/index.html** e crie um título para a notícia, um subtítulo e um parágrafo introdutório.
+2. Adicione duas imagens relacionadas à notícia. As imagens devem estar posicionadas dentro do conteúdo textual da notícia.
+3. Use a propriedade float para posicionar uma imagem à esquerda ou a outra à direita do texto.
+   * Posicione uma imagem próximo ao início da notícia e outra próxima do fim do texto. 
+4. Aplique estilos CSS para as imagens, como larguras fixas, margens e bordas, para tornar o layout mais atraente.
+5. Certifique-se de que o texto do corpo da notícia flua ao redor das imagens, criando um layout agradável e legível.
+6. Salve seus arquivos e abra o arquivo noticia.html em um navegador para verificar o layout da notícia que você criou.
+
+Dicas:
+
+* Use a propriedade float para posicionar as imagens e permitir que o texto flua ao redor delas.
+* Use as propriedades de CSS, como width, margin, border, padding e background-color, para estilizar as imagens e o texto.
+* Pode ser útil aplicar uma margem entre o texto e as imagens para melhorar o espaçamento.
+
+Desafio Extra:
+
+* Crie uma classe CSS que defina um estilo especial para o título da notícia, destacando-o do restante do conteúdo.
 
 ## Recomendações
 
